@@ -1,0 +1,8 @@
+#Wed Sep 19 12:18:19 IST 2018
+URL=ErpQueryEndpoint
+Name=ErpQueryEndpoint
+TrustAll=FALSE
+Type=HTTP
+Password=dummy
+Authentication=BasicAuthentication
+User=dummy
